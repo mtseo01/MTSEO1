@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MTSEO
-- 👀 I’m interested in Web / Front-end
+- 👀 I’m interested in Web / Front-end / Back-end
 - 🌱 I’m currently learning HTML / CSS / JavaScript / C / Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Email : seomt992@gmail.com
