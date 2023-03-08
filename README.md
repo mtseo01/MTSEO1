@@ -22,7 +22,7 @@
       src="https://img.shields.io/badge/Vue.js-grey?style=flat&logo=Vue.js&logoColor=4FC08D"
     />
     <img
-      src="https://img.shields.io/badge/React-grey?style=flat&logo=Node.js&logoColor=61DAFB"
+      src="https://img.shields.io/badge/React-grey?style=flat&logo=React&logoColor=61DAFB"
     />
     <br />
     <img
