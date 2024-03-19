@@ -8,10 +8,8 @@
 
 <div align="center">
   <div>
-    <h3>👋 Hello, I'm MT.SEO<br /></h3>    
-    <h4>🧑🏻‍💻 I’m currently learning</h4>
-    <img src="https://img.shields.io/badge/Front end-grey?style=flat" />
-    <br />
+    <h4>👋 Hello, I'm a Front-end developer, focusing on web development and UI libraries.<br /></h4>    
+    <h4>🧑🏻‍💻 Currently working with these technologies:</h4>
     <img
       src="https://img.shields.io/badge/JavaScript-grey?style=flat&logo=Javascript&logoColor=F7DF1E"
     />
@@ -19,7 +17,7 @@
       src="https://img.shields.io/badge/TypeScript-grey?style=flat&logo=TypeScript&logoColor=3178C6"
     />
     <img
-      src="https://img.shields.io/badge/Vue.js-grey?style=flat&logo=Vue.js&logoColor=4FC08D"
+      src="https://img.shields.io/badge/Next.js-grey?style=flat&logo=Next.js&logoColor=000000"
     />
     <img
       src="https://img.shields.io/badge/React-grey?style=flat&logo=React&logoColor=61DAFB"
@@ -31,17 +29,13 @@
     <img
       src="https://img.shields.io/badge/CSS3-grey?style=flat&logo=CSS3&logoColor=1572B6"
     />
-    <br />
-    <img src="https://img.shields.io/badge/Back end-grey?style=flat" />
-    <br />
     <img
-      src="https://img.shields.io/badge/Node.js-grey?style=flat&logo=Node.js&logoColor=339933"
+      src="https://img.shields.io/badge/TailwindCSS-grey?style=flat&logo=TailWindCss&logoColor=38d1ff"
     />
-    <img
-      src="https://img.shields.io/badge/Express-grey?style=flat&logo=Express&logoColor=000000"
-    />
+    <br />
     <br />
     <h4>💌 Email : seomt992@gmail.com</h4>
+    <h4>🌐 Website : https://mtseo.dev</h4>
     <a href="https://hits.seeyoufarm.com"
       ><img
         src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmtseo01&count_bg=%23A61385&title_bg=%230734BC&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false" /></a
