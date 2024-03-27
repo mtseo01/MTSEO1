@@ -41,13 +41,16 @@
         src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmtseo01&count_bg=%23A61385&title_bg=%230734BC&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false" /></a
     ><br /><br />
   </div>
-
-  <div>
+  
+  <!---
+    <div>
     <img
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtseo01&layout=compact&theme=rose_pine"
     />
     <br />
   </div>
+  --->
+  
 </div>
 
 <!---
